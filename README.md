@@ -4,7 +4,7 @@ Excercise to start Learning Quantitative Analysis.
 The Jupyter Notebook is showing me trying to predict the VIX value. I frame the problem as a Time Series Forecasting exercise.
 
 Here are some Evaluation results in the predictions of the rest of the variables. You can simple see this by changing the ´value_predict´ variable for another one in the data frame :
-1. **SP500**
+1. **SP500** \n
       Mean Absolute Error: 0.023264765522703266
       Mean Squared Error: 0.0011688834374884748
       R^2: 0.9848747533680077
