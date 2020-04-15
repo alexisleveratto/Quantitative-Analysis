@@ -1,2 +1,2 @@
-# Quantitative-Analysis
-Practice Quantitative Analysis for learning
+# Quantitative Analysis
+Excercise to start Learning Quantitative Analysis.
